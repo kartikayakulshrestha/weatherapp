@@ -1,0 +1,29 @@
+.weather{
+    text-align: center;
+    color: black;
+    margin-top: 10vh;
+    text-shadow: 2px 2px 3px gold;
+}
+
+
+.card{
+    width: 250px;
+    border-radius: 5%;
+    border-color: skyblue;
+    border-width: 3px;
+    margin:4px;
+    box-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+}
+#superr{
+    padding: 3px;
+    margin: 3px;
+    background-color:gold;
+    
+}
+.container{
+    margin-top: 60px;
+    background-color:azure;
+    margin-bottom: 70px;
+    padding: 2%;
+    border-radius: 5%;
+}
